@@ -36,21 +36,22 @@
 	
 
 # File marks:
-'0  3  6  ~/.gitignore
-'1  1  0  ~/views/index.jade
-'2  32  0  ~/build.gradle
-'3  33  1  ~/build.gradle
-'4  34  0  ~/build.gradle
-'5  27  16  ~/build.gradle
-'6  9  0  ~/build.gradle
-'7  8  1  ~/build.gradle
-'8  12  2  ~/package.json
-'9  2  10  ~/package.json
+'0  2  11  ~/views/index.jade
+'1  3  6  ~/.gitignore
+'2  1  0  ~/views/index.jade
+'3  32  0  ~/build.gradle
+'4  33  1  ~/build.gradle
+'5  34  0  ~/build.gradle
+'6  27  16  ~/build.gradle
+'7  9  0  ~/build.gradle
+'8  8  1  ~/build.gradle
+'9  12  2  ~/package.json
 
 # Jumplist (newest first):
+-'  2  11  ~/views/index.jade
+-'  1  0  ~/views/index.jade
 -'  3  6  ~/.gitignore
 -'  1  0  ~/.gitignore
--'  1  0  ~/views/index.jade
 -'  32  0  ~/build.gradle
 -'  33  0  ~/build.gradle
 -'  34  0  ~/build.gradle
@@ -145,21 +146,21 @@
 -'  8  20  ~/app.js
 -'  1  0  ~/app.js
 -'  90  0  ~/bin/www
--'  1  0  ~/bin/www
--'  6  37  ~/routes/index.js
 
 # History of marks within files (newest to oldest):
+
+> ~/views/index.jade
+	"	2	11
+	^	2	12
+	.	2	11
+	+	1	0
+	+	2	11
 
 > ~/.gitignore
 	"	3	6
 	^	3	7
 	.	3	6
 	+	3	6
-
-> ~/views/index.jade
-	"	1	0
-	.	1	0
-	+	1	0
 
 > ~/build.gradle
 	"	32	0
